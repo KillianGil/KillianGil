@@ -9,7 +9,7 @@
 </a>
 <br /><br />
 
-Bonjour, je m'appelle Killian GIL, je suis née le 18 mars 2003, j'ai donc **19 ans**. Je vis actuellement a Aix-en-Provence dans mon appartement.
+Bonjour, je m'appelle Killian GIL, je suis née le 18 mars 2003, j'ai donc **19 ans**. Je vis actuellement a Aix-en-Provence.
 Habituellement j'habitais vers *Manosque* dans les Alpes-de-haute-provence (04). Concernant les études, je suis actuellement en BUT Informatique.  
 Et pour finir je ressemble a ca :  
 
